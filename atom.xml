@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wuxubj.cn/"/>
-  <updated>2019-07-07T10:41:20.847Z</updated>
+  <updated>2019-07-07T12:30:35.372Z</updated>
   <id>http://blog.wuxubj.cn/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>C/C++位域结构</title>
+    <link href="http://blog.wuxubj.cn/2019/07/C:C++%E4%BD%8D%E5%9F%9F%E7%BB%93%E6%9E%84/"/>
+    <id>http://blog.wuxubj.cn/2019/07/C:C++位域结构/</id>
+    <published>2019-07-07T20:10:30.000Z</published>
+    <updated>2019-07-07T12:30:35.372Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;关于位域结构，&lt;a href=&quot;https://jocent.me/2017/07/24/bit-field-detail.html&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="C/C++" scheme="http://blog.wuxubj.cn/categories/C-C/"/>
+    
+    
+      <category term="结构体" scheme="http://blog.wuxubj.cn/tags/%E7%BB%93%E6%9E%84%E4%BD%93/"/>
+    
+      <category term="位域" scheme="http://blog.wuxubj.cn/tags/%E4%BD%8D%E5%9F%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>C/C++结构体对齐</title>
@@ -442,29 +470,6 @@
     
       &lt;p&gt;&lt;font color=&quot;#f00&quot;&gt;本文为建站初期小结，查看完整建站教程：&lt;/font&gt;&lt;a href=&quot;/2016/08/Hexo-nexT-build-personal-blog/&quot;&gt;Hexo+nexT主题搭建个人博客&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;记录了nexT主题的美化，包括添加分类和标签页、添加swiftype搜索、导航栏美化、添加留言页面及最近访客以及添加404公益页面。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="博客搭建" scheme="http://blog.wuxubj.cn/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-    
-    
-      <category term="Hexo" scheme="http://blog.wuxubj.cn/tags/Hexo/"/>
-    
-      <category term="NexT" scheme="http://blog.wuxubj.cn/tags/NexT/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo搭建个人博客(基础篇)</title>
-    <link href="http://blog.wuxubj.cn/2016/05/Hexo-build-personal-blog-basics/"/>
-    <id>http://blog.wuxubj.cn/2016/05/Hexo-build-personal-blog-basics/</id>
-    <published>2016-05-21T15:20:28.000Z</published>
-    <updated>2019-07-05T13:52:57.686Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;font color=&quot;#f00&quot;&gt;本文为建站初期小结，查看完整建站教程：&lt;/font&gt;&lt;a href=&quot;/2016/08/Hexo-nexT-build-personal-blog/&quot;&gt;Hexo+nexT主题搭建个人博客&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;讲述Hexo的安装，nexT主题的下载及其简单配置。&lt;/p&gt;
     
     </summary>
     
