@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wuxubj.cn/"/>
-  <updated>2019-07-08T05:11:37.930Z</updated>
+  <updated>2019-07-08T13:49:11.379Z</updated>
   <id>http://blog.wuxubj.cn/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>stringstream内存消耗和临时对象的问题</title>
+    <link href="http://blog.wuxubj.cn/2019/07/stringstream%E5%86%85%E5%AD%98%E6%B6%88%E8%80%97%E5%92%8C%E4%B8%B4%E6%97%B6%E5%AF%B9%E8%B1%A1%E7%9A%84%E9%97%AE%E9%A2%98/"/>
+    <id>http://blog.wuxubj.cn/2019/07/stringstream内存消耗和临时对象的问题/</id>
+    <published>2019-07-08T16:23:30.000Z</published>
+    <updated>2019-07-08T13:49:11.379Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;记录stringstream在使用上的2个坑。&lt;/p&gt;
+&lt;h2 id=&quot;反复读写大量数据时的内存消耗&quot;&gt;&lt;a href=&quot;#反复读写大量数据时的内存消耗&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="C/C++" scheme="http://blog.wuxubj.cn/categories/C-C/"/>
+    
+    
+      <category term="stringstream" scheme="http://blog.wuxubj.cn/tags/stringstream/"/>
+    
+  </entry>
   
   <entry>
     <title>正则表达式</title>
@@ -466,26 +493,6 @@
       <category term="算法" scheme="http://blog.wuxubj.cn/tags/%E7%AE%97%E6%B3%95/"/>
     
       <category term="排序" scheme="http://blog.wuxubj.cn/tags/%E6%8E%92%E5%BA%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Matlab线型标记颜色</title>
-    <link href="http://blog.wuxubj.cn/2016/06/matlab-linestyle-marker-color/"/>
-    <id>http://blog.wuxubj.cn/2016/06/matlab-linestyle-marker-color/</id>
-    <published>2016-06-16T00:00:00.000Z</published>
-    <updated>2019-07-05T13:53:05.449Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Matlab画图时，线型、标记和颜色的设置。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="数据处理基础" scheme="http://blog.wuxubj.cn/categories/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E5%9F%BA%E7%A1%80/"/>
-    
-    
-      <category term="matlab" scheme="http://blog.wuxubj.cn/tags/matlab/"/>
     
   </entry>
   
