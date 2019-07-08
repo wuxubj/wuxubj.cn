@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wuxubj.cn/"/>
-  <updated>2019-07-07T12:35:23.290Z</updated>
+  <updated>2019-07-08T04:47:37.372Z</updated>
   <id>http://blog.wuxubj.cn/</id>
   
   <author>
@@ -15,6 +15,58 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>正则表达式</title>
+    <link href="http://blog.wuxubj.cn/2019/07/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
+    <id>http://blog.wuxubj.cn/2019/07/正则表达式/</id>
+    <published>2019-07-08T11:23:30.000Z</published>
+    <updated>2019-07-08T04:47:37.372Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;命令行grep怎么输入tab-？&quot;&gt;&lt;a href=&quot;#命令行grep怎么输入tab-？&quot; class=&quot;headerlink&quot; title=&quot;命令行grep怎么输入tab ？&quot;&gt;&lt;/a&gt;命令行grep怎么输入tab
+        
+      
+    
+    </summary>
+    
+      <category term="Linux基本功" scheme="http://blog.wuxubj.cn/categories/Linux%E5%9F%BA%E6%9C%AC%E5%8A%9F/"/>
+    
+    
+      <category term="正则表达式" scheme="http://blog.wuxubj.cn/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vim常用操作</title>
+    <link href="http://blog.wuxubj.cn/2019/07/vim%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C/"/>
+    <id>http://blog.wuxubj.cn/2019/07/vim常用操作/</id>
+    <published>2019-07-08T11:23:30.000Z</published>
+    <updated>2019-07-08T04:47:37.371Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;显示-隐藏非可见字符（tab，行尾等）&quot;&gt;&lt;a href=&quot;#显示-隐藏非可见字符（tab，行尾等）&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Linux基本功" scheme="http://blog.wuxubj.cn/categories/Linux%E5%9F%BA%E6%9C%AC%E5%8A%9F/"/>
+    
+    
+      <category term="vim" scheme="http://blog.wuxubj.cn/tags/vim/"/>
+    
+  </entry>
   
   <entry>
     <title>C/C++位域结构</title>
@@ -434,51 +486,6 @@
     
     
       <category term="matlab" scheme="http://blog.wuxubj.cn/tags/matlab/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>matlab添加噪声和计算信号信噪比</title>
-    <link href="http://blog.wuxubj.cn/2016/05/matlab-add-noise-calculating-signal-to-noise-ratio/"/>
-    <id>http://blog.wuxubj.cn/2016/05/matlab-add-noise-calculating-signal-to-noise-ratio/</id>
-    <published>2016-05-26T20:49:23.000Z</published>
-    <updated>2019-07-05T13:53:04.461Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;本文讲述Matlab中计算信号信噪比以及在信号中添加高斯白噪声的方法。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="数据处理基础" scheme="http://blog.wuxubj.cn/categories/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E5%9F%BA%E7%A1%80/"/>
-    
-    
-      <category term="matlab" scheme="http://blog.wuxubj.cn/tags/matlab/"/>
-    
-      <category term="数据处理" scheme="http://blog.wuxubj.cn/tags/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo搭建个人博客(进阶篇)</title>
-    <link href="http://blog.wuxubj.cn/2016/05/Hexo-build-personal-blog-advance/"/>
-    <id>http://blog.wuxubj.cn/2016/05/Hexo-build-personal-blog-advance/</id>
-    <published>2016-05-21T16:01:28.000Z</published>
-    <updated>2019-07-05T13:52:58.830Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;font color=&quot;#f00&quot;&gt;本文为建站初期小结，查看完整建站教程：&lt;/font&gt;&lt;a href=&quot;/2016/08/Hexo-nexT-build-personal-blog/&quot;&gt;Hexo+nexT主题搭建个人博客&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;记录了nexT主题的美化，包括添加分类和标签页、添加swiftype搜索、导航栏美化、添加留言页面及最近访客以及添加404公益页面。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="博客搭建" scheme="http://blog.wuxubj.cn/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-    
-    
-      <category term="Hexo" scheme="http://blog.wuxubj.cn/tags/Hexo/"/>
-    
-      <category term="NexT" scheme="http://blog.wuxubj.cn/tags/NexT/"/>
     
   </entry>
   
