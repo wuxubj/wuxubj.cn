@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wuxubj.cn/"/>
-  <updated>2019-07-08T13:54:04.570Z</updated>
+  <updated>2019-07-08T15:37:14.244Z</updated>
   <id>http://blog.wuxubj.cn/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ssh免密登录之目录权限配置</title>
+    <link href="http://blog.wuxubj.cn/2019/07/ssh%E5%85%8D%E5%AF%86%E7%99%BB%E5%BD%95%E4%B9%8B%E7%9B%AE%E5%BD%95%E6%9D%83%E9%99%90%E9%85%8D%E7%BD%AE/"/>
+    <id>http://blog.wuxubj.cn/2019/07/ssh免密登录之目录权限配置/</id>
+    <published>2019-07-09T12:23:30.000Z</published>
+    <updated>2019-07-08T15:37:14.244Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;背景：(ubuntu)之前ssh免密登录一直运行正常，今天修改了home目录权限之后免密登录突然失效了。折腾一番才知道，原来ssh免密登录对用户home目录和.ssh目录权限配置有要求。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;/home/当前用户
+        
+      
+    
+    </summary>
+    
+      <category term="Linux基本功" scheme="http://blog.wuxubj.cn/categories/Linux%E5%9F%BA%E6%9C%AC%E5%8A%9F/"/>
+    
+    
+      <category term="ssh" scheme="http://blog.wuxubj.cn/tags/ssh/"/>
+    
+  </entry>
   
   <entry>
     <title>stringstream内存消耗和临时对象的问题</title>
@@ -471,28 +499,6 @@
       <category term="算法" scheme="http://blog.wuxubj.cn/tags/%E7%AE%97%E6%B3%95/"/>
     
       <category term="折半查找" scheme="http://blog.wuxubj.cn/tags/%E6%8A%98%E5%8D%8A%E6%9F%A5%E6%89%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>选择排序算法</title>
-    <link href="http://blog.wuxubj.cn/2016/06/select-sort-algorithm/"/>
-    <id>http://blog.wuxubj.cn/2016/06/select-sort-algorithm/</id>
-    <published>2016-06-28T20:35:56.000Z</published>
-    <updated>2019-07-05T13:53:09.747Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;https://book.douban.com/subject/1886174/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;《数据结构(C语言版)》&lt;/a&gt;学习笔记：&lt;a href=&quot;http://wuxubj.cn/2016/06/28/select-sort-algorithm/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;选择排序算法&lt;/a&gt;(p4)&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="算法与数据结构" scheme="http://blog.wuxubj.cn/categories/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    
-    
-      <category term="算法" scheme="http://blog.wuxubj.cn/tags/%E7%AE%97%E6%B3%95/"/>
-    
-      <category term="排序" scheme="http://blog.wuxubj.cn/tags/%E6%8E%92%E5%BA%8F/"/>
     
   </entry>
   
